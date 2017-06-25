@@ -1,7 +1,8 @@
 # T-NOVA final Deliverables #
 
 ## WP1 ##
-(./WP1/TNOVA_D1.4_Final_Report_v.1.0.pdf)
+
+[D1.4 Final Report](./WP1/TNOVA_D1.4_Final_Report_v.1.0.pdf)
 
 ## WP2 ##
 
