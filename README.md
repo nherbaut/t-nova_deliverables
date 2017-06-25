@@ -1,5 +1,9 @@
 # T-NOVA final Deliverables #
 
+This repository contains the deliverables for the t-NOVA project, to be stored for future reference, and especially for my PhD bibliography.
+
+Nicolas HERBAUT
+
 ## WP1 ##
 
 [D1.4 Final Report](./WP1/TNOVA_D1.4_Final_Report_v.1.0.pdf)
