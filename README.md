@@ -48,9 +48,15 @@ Nicolas HERBAUT
 
 [D4.21_SDN_Control_Plane_Interim](./WP4/TNOVA_D4.21_SDN_Control_Plane_Interim.pdf)
 
+[D4.22_SDN_Control_Plane_Final](./WP4/TNOVA_D4.22_SDN_Control_Plane_Final.pdf)
+
 [D4.31_SDK for SDN - Interim](./WP4/TNOVA_D4.31_SDK for SDN - Interim_v1.0.pdf)
 
+[D4.32_SDK for SDN - Final](./WP4/TNOVA_D4.31_SDK for SDN - Final_v1.0.pdf)
+
 [D4.41_Monitoring_and_Maintenance_Interim](./WP4/TNOVA_D4.41_Monitoring_and_Maintenance_Interim.pdf)
+
+[D4.42 Monitoring and Maintenance Interim](./WP4/TNOVA_D4.42.pdf)
 
 [D4.51_Infrastructure_Integration_and_Deployment-Interim](./WP4/TNOVA_D4.51_Infrastructure_Integration_and_Deployment-Interim_v1.0.pdf)
 
@@ -61,7 +67,7 @@ Nicolas HERBAUT
 
 [D5.31 - Network Functions Implementation and Testing Interim](./WP5/TNOVA_D5.31 - Network Functions Implementation and Testing - Interim_v1.0.pdf)
 
-[D5_2 Middleware API](./WP5/TNOVA_D5_2.docx)
+[D5_2 Middleware API, Function Deployment, Configuration and Management](./WP5/TNOVA_D5_2.pdf)
 
 [D5.32 Network Functions Implementation and Testing](./WP5/TNOVA_D5_32.docx)
 
