@@ -2,6 +2,8 @@
 
 This repository contains the deliverables for the t-NOVA project, to be stored for future reference, and especially for my PhD bibliography.
 
+These documents are also available through the [EU cordis portal](http://cordis.europa.eu/project/rcn/189104_en.html), but the file browser is messy.
+
 Nicolas HERBAUT
 
 ## WP1 ##
@@ -69,7 +71,7 @@ Nicolas HERBAUT
 
 [D5_2 Middleware API, Function Deployment, Configuration and Management](./WP5/TNOVA_D5_2.pdf)
 
-[D5.32 Network Functions Implementation and Testing](./WP5/TNOVA_D5_32.docx)
+[D5.32 Network Functions Implementation and Testing](./WP5/TNOVA_D5_2.pdf)
 
 ## WP6 ##
 [D6.01_Interim Report on marketplace implementation](./WP6/TNOVA_D6.01_Interim Report on marketplace implementation_v1.0.pdf)
