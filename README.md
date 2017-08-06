@@ -71,7 +71,7 @@ Nicolas HERBAUT
 
 [D5_2 Middleware API, Function Deployment, Configuration and Management](./WP5/TNOVA_D5_2.pdf) [bibtex](./WP5/TNOVA_D5_2.pdf.tex)
 
-[D5.32 Network Functions Implementation and Testing](./WP5/TNOVA_D5_2.pdf) [bibtex](./WP5/TNOVA_D5_2.pdf.tex)
+[D5.32 Network Functions Implementation and Testing](./WP5/TNOVA_D5_32.pdf) [bibtex](./WP5/TNOVA_D5_32.pdf.tex)
 
 ## WP6 ##
 [D6.01_Interim Report on marketplace implementation](./WP6/TNOVA_D6.01_Interim Report on marketplace implementation_v1.0.pdf) [bibtex](./WP6/TNOVA_D6.01_Interim Report on marketplace implementation_v1.0.pdf.tex)
