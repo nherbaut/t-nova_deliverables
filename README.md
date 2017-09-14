@@ -101,3 +101,6 @@ Nicolas HERBAUT
 [D8.31-First Report on Dissemination and Communication Activities](./WP8/TNOVA_D8.31-First Report on Dissemination and Communication Activities_v1.0.pdf) [bibtex](./WP8/TNOVA_D8.31-First Report on Dissemination and Communication Activities_v1.0.pdf.tex)
 
 [D8.32-Dissemination_and_Communication_Activities](./WP8/TNOVA_D8.32-Dissemination_and_Communication_Activities_v1.0.pdf) [bibtex](./WP8/TNOVA_D8.32-Dissemination_and_Communication_Activities_v1.0.pdf.tex)
+
+
+[D8.33-Dissemination](./WP8/D8.33-Dissemination.pdf)
